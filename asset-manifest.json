@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dp1/static/css/main.ba175f39.css",
+    "main.js": "/dp1/static/js/main.be75884e.js",
+    "static/media/Prashant-Resume.pdf": "/dp1/static/media/Prashant-Resume.3297a18b0b36c15b19ee.pdf",
+    "static/media/profile2 (1).png": "/dp1/static/media/profile2 (1).d5f314e50cfc76253779.png",
+    "static/media/profile2 (2).jpeg": "/dp1/static/media/profile2 (2).b8d09dcd0637f00671c3.jpeg",
+    "static/media/home task.jpeg": "/dp1/static/media/home task.b3861c0638120f48e9c3.jpeg",
+    "static/media/hr.png": "/dp1/static/media/hr.e375414f0786b6cf0e48.png",
+    "index.html": "/dp1/index.html",
+    "main.ba175f39.css.map": "/dp1/static/css/main.ba175f39.css.map",
+    "main.be75884e.js.map": "/dp1/static/js/main.be75884e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba175f39.css",
+    "static/js/main.be75884e.js"
+  ]
+}
